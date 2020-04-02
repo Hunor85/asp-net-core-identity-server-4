@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/hunorvadasz-perhat/.dotnet/store/|arch|/|tfm|",
+      "/Users/hunorvadasz-perhat/.nuget/packages"
+    ]
+  }
+}
